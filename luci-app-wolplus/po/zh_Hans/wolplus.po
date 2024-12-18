@@ -2,7 +2,7 @@ msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: luci-app-wolplus/luasrc/view/wolplus/index.htm:14
-msgid "Wake on LAN +"
+msgid "&"
 msgstr "网络唤醒+"
 
 #: luci-app-wolplus/luasrc/model/cbi/wolplus.lua:27
