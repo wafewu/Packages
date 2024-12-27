@@ -3,7 +3,7 @@ msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: luci-app-wolplus/luasrc/view/wolplus/index.htm:14
 msgid "&"
-msgstr "网络唤醒+"
+msgstr ""
 
 #: luci-app-wolplus/luasrc/model/cbi/wolplus.lua:27
 msgid "Awake"
@@ -40,7 +40,7 @@ msgstr "唤醒主机"
 #: luci-app-wolplus/luasrc/controller/wolplus.lua:8
 #: luci-app-wolplus/luasrc/model/cbi/wolplus.lua:4
 msgid "Wake on LAN +"
-msgstr ""
+msgstr "网络唤醒+"
 
 #: luci-app-wolplus/luasrc/model/cbi/wolplus.lua:4
 msgid ""
